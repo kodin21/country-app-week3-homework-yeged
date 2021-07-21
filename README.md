@@ -1,4 +1,4 @@
-https://country-app-week3-homework-yeged.vercel.app/
+### [Live Preview](https://country-app-week3-homework-yeged.vercel.app/)
 
 ### Ülke Listesi / Istatistikleri Uygulaması
 
